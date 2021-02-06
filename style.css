@@ -1,0 +1,24 @@
+.content{
+    border: 1px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 600px;
+}
+.pic{
+    width: 240px;
+    height: 150px;
+}
+.footer{
+    border: 1px solid rgb(3, 3, 52);
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 50px;
+    background-color: rgb(17, 17, 135);
+    text-align: center;
+    color: white;
+}
+.links{
+    text-align: center;
+    font-size: 18pt;
+    font-family: Monotype Corsiva;
+}
